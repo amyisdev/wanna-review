@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import CTAHero from './components/CTAHero.vue';
+import { RouterView } from 'vue-router';
 </script>
 
 <template>
   <div class="min-h-screen bg-gray-50">
-    <CTAHero />
+    <RouterView />
   </div>
 </template>
