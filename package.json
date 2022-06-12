@@ -12,6 +12,7 @@
   "dependencies": {
     "@headlessui/vue": "^1.6.4",
     "@heroicons/vue": "^1.0.6",
+    "@supabase/supabase-js": "^1.35.3",
     "pinia": "^2.0.14",
     "vue": "^3.2.36",
     "vue-router": "^4.0.16"
