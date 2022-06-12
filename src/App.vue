@@ -1,5 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import CTAHero from './components/CTAHero.vue';
+</script>
 
 <template>
-  <h1 class="text-3xl">Hello World</h1>
+  <div class="min-h-screen bg-gray-50">
+    <CTAHero />
+  </div>
 </template>
